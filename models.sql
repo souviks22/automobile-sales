@@ -5,3 +5,6 @@ CREATE TABLE models(
     brand_id INT,
     FOREIGN KEY(brand_id) REFERENCES brands(id)
 );
+
+INSERT INTO models(modelname,styles,brand_id)
+VALUES ()
