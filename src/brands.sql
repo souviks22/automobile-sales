@@ -5,4 +5,4 @@ CREATE TABLE brands(
 
 INSERT INTO brands(brandname)
 VALUES ('Volkswagen'),('Audi'),('Lamborghini'),('Bentley'),('Bugatti'),('Skoda'),
-('Chevrolet'),('Pontiac'),('Buick'),('Cadillac'),('GMC'),('Saturn'),('Hummer'),('Vauxhall');
+('Chevrolet'),('Pontiac'),('Buick'),('Cadillac'),('GMC'),('Saturn');
