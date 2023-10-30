@@ -1,3 +1,5 @@
+-- Models Table
+
 CREATE TABLE models(
 	id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
     modelname VARCHAR(100) NOT NULL,

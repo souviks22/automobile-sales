@@ -1,3 +1,5 @@
+-- Suppliers Table
+
 CREATE TABLE suppliers(
 	id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
     suppliername VARCHAR(100) NOT NULL,

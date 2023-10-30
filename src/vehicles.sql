@@ -1,3 +1,5 @@
+-- Vehicles Table
+
 CREATE TABLE vehicles(
 	id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
     vin CHAR(17) NOT NULL UNIQUE,

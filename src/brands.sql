@@ -1,3 +1,5 @@
+-- Brands Table
+
 CREATE TABLE brands(
 	id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
     brandname VARCHAR(50) NOT NULL

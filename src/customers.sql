@@ -1,3 +1,5 @@
+-- Customers Table
+
 CREATE TABLE customers(
 	id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
     firstname VARCHAR(20) NOT NULL,
